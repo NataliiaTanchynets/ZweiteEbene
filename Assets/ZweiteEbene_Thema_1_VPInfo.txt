@@ -1,0 +1,17 @@
+{"myStats":{"name":"jhkjhk","richtigeAntwort":1,"gesamteZeit":"1:21","zeitQuiz":"0:43"}}
+{"myStats":{"name":"jhkjhk","richtigeAntwort":1,"gesamteZeit":"1:21","zeitQuiz":"0:43"}}
+{"myStats":{"name":"jhkjhk","richtigeAntwort":1,"gesamteZeit":"1:21","zeitQuiz":"0:43"}}
+{"myStats":{"name":"jhkjhk","richtigeAntwort":1,"gesamteZeit":"1:21","zeitQuiz":"0:43"}}
+{"myStats":{"name":"jhkjhk","richtigeAntwort":1,"gesamteZeit":"1:21","zeitQuiz":"0:43"}}
+{"myStats":{"name":"jhkjhk","richtigeAntwort":1,"gesamteZeit":"1:21","zeitQuiz":"0:43"}}
+{"myStats":{"name":"jhkjhk","richtigeAntwort":1,"gesamteZeit":"1:21","zeitQuiz":"0:43"}}
+{"myStats":{"name":"jhkjhk","richtigeAntwort":1,"gesamteZeit":"1:21","zeitQuiz":"0:43"}}
+{"myStats":{"name":"jhkjhk","richtigeAntwort":1,"gesamteZeit":"1:21","zeitQuiz":"0:43"}}
+{"myStats":{"name":"ugikhjk","richtigeAntwort":3,"gesamteZeit":"0:59","zeitQuiz":"0:53"}}
+{"myStats":{"name":"adfds","richtigeAntwort":1,"gesamteZeit":"1:19","zeitQuiz":"1:12"}}
+{"myStats":{"name":"sdf","richtigeAntwort":1,"gesamteZeit":"1:11","zeitQuiz":"0:54"}}
+{"myStats":{"name":"aksjdh","richtigeAntwort":2,"gesamteZeit":"1:11","zeitQuiz":"1:0"}}
+{"myStats":{"name":"asdsa","richtigeAntwort":2,"gesamteZeit":"1:19","zeitQuiz":"1:9"}}
+{"myStats":{"name":"kajdh","richtigeAntwort":0,"gesamteZeit":"4:19","zeitQuiz":"3:47"}}
+{"myStats":{"name":"jhgfd","richtigeAntwort":1,"gesamteZeit":"0:50","zeitQuiz":"0:44"}}
+{"myStats":{"name":"jvjhgj","richtigeAntwort":5,"gesamteZeit":"2:12","zeitQuiz":"1:13"}}

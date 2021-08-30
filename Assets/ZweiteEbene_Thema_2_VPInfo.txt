@@ -1,0 +1,3 @@
+{"myStats":{"name":"uigjhgk","richtigeAntwort":2,"gesamteZeit":"1:42","zeitQuiz":"0:53"}}
+{"myStats":{"name":"uigjhgk","richtigeAntwort":2,"gesamteZeit":"1:42","zeitQuiz":"0:53"}}
+{"myStats":{"name":"hgjhghkjg","richtigeAntwort":1,"gesamteZeit":"1:26","zeitQuiz":"1:1"}}

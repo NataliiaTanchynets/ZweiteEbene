@@ -1,0 +1,5 @@
+{"myStats":{"name":"khgjhgj","richtigeAntwort":5,"gesamteZeit":"2:2","zeitQuiz":"1:38"}}
+{"myStats":{"name":"khgjhgj","richtigeAntwort":5,"gesamteZeit":"2:2","zeitQuiz":"1:38"}}
+{"myStats":{"name":"khgjhgj","richtigeAntwort":5,"gesamteZeit":"2:2","zeitQuiz":"1:38"}}
+{"myStats":{"name":"khgjhgj","richtigeAntwort":5,"gesamteZeit":"2:2","zeitQuiz":"1:38"}}
+{"myStats":{"name":"khgjhgj","richtigeAntwort":5,"gesamteZeit":"2:2","zeitQuiz":"1:38"}}

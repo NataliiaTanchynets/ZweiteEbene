@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MarkerMenue" size="1.000000 1.015180" />
+    <ImageTarget name="Marker_a" size="1.000000 1.008197" />
+    <ImageTarget name="Marker_d" size="1.000000 1.006148" />
+    <ImageTarget name="b5" size="1.000000 0.950207" />
+    <ImageTarget name="b3" size="1.000000 0.950207" />
+    <ImageTarget name="b2" size="1.000000 0.950104" />
+    <ImageTarget name="MarkerQuiz" size="1.000000 1.018975" />
+    <ImageTarget name="Marker_Animation" size="1.000000 1.018975" />
+    <ImageTarget name="Marker_Quiz" size="1.000000 0.950104" />
+    <ImageTarget name="Marker_c" size="1.000000 0.950207" />
+    <ImageTarget name="Marker_b" size="1.000000 0.948133" />
+    <ImageTarget name="QuizZweiteEbene" size="0.080000 0.076008" />
+    <ImageTarget name="c" size="0.080000 0.080656" />
+    <ImageTarget name="d" size="0.080000 0.080492" />
+    <ImageTarget name="b" size="0.080000 0.080656" />
+    <ImageTarget name="a" size="0.080000 0.080656" />
+  </Tracking>
+</QCARConfig>
